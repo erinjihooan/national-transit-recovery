@@ -1,4 +1,4 @@
-# National Transit Recovery - Post-COVID Ridership Analysis
+# National Transit Recovery: Post-COVID Ridership Analysis
 
 ## Project Overview
 This project evaluates how U.S. public transit ridership has recovered since COVID across major metro areas, using monthly filings from the FTA National Transit Database (NTD).
