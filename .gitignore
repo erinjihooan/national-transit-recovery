@@ -1,0 +1,22 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Raw & sensitive data (never version large/raw datasets)
+data/raw/
+data/interim/
+*.csv
+*.xlsx
+!data/processed/.gitkeep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/settings.json
+
+# Environment variables
+.env
